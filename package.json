@@ -11,5 +11,14 @@
   },
   "dependencies": {
     "mongoose": "^9.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajgupta9161/DataBaseRelationship.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/surajgupta9161/DataBaseRelationship/issues"
+  },
+  "homepage": "https://github.com/surajgupta9161/DataBaseRelationship#readme"
 }
